@@ -5,8 +5,8 @@
 ## Table of Contents
 
 - [Activity 1](showcase/projects/Activity1)
-- [Jumping words](showcase/projects/Jumping words)
-- [Bell Notification](showcase/projects/Bell notifications)
+- [Jumping words](showcase/projects/Jumpingwords)
+- [Bell Notification](showcase/projects/Bellnotifications)
 - [Flashlight](showcase/projects/Flashlight)
-- [Search Bar](showcase/projects/Jumping words)
-- [Gallery Scroller](showcase/projects/Animation Lab)
+- [Search Bar](showcase/projects/Jumpingwords)
+- [Gallery Scroller](showcase/projects/AnimationLab)
