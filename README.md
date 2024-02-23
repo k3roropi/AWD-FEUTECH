@@ -1,8 +1,6 @@
-# Project Name
+# Landing Page AWD - FEUTECH
 
-## Description
-
-Briefly describe your project, its purpose, and what it does.
+## This is the landing page for the projects created this semester
 
 ## Table of Contents
 
