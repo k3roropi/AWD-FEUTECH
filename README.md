@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
--[Activity 1](./docs/installation.md)
--[Jumping words](./docs/installation.md)
--[Bell Notification](./docs/installation.md)
--[Flashlight](./docs/installation.md)
--[Search Bar](./docs/installation.md)
--[Gallery Scroller](./docs/installation.md)
+- [Activity 1](./docs/installation.md)
+- [Jumping words](./docs/installation.md)
+- [Bell Notification](./docs/installation.md)
+- [Flashlight](./docs/installation.md)
+- [Search Bar](./docs/installation.md)
+- [Gallery Scroller](./docs/installation.md)
