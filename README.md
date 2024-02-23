@@ -1,6 +1,6 @@
 # Landing Page AWD - FEUTECH
 
-![Alt Text]([URL](https://upload.wikimedia.org/wikipedia/en/6/62/FEU_Tech_official_seal.png))
+![FEU]([URL](https://upload.wikimedia.org/wikipedia/en/6/62/FEU_Tech_official_seal.png))
 
 ## This is the landing page for the projects created this semester
 
